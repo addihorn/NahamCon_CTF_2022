@@ -1,4 +1,11 @@
-# How to
+# Jurassic Park (web)
+
+## Challenge
+```
+Dr. John Hammond has put together a small portfolio about himself for his new theme park, Jurassic Park. Check it out here! 
+```
+
+## Solution
 
 The source code does not give any hints where the flag could be.
 Accessing folders `assets` and `css` did not result in anything.

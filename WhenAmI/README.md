@@ -1,5 +1,19 @@
-# How to
+# WhenAmI (Misc)
 
+## Challenge 
+
+```
+I know where I am, but... when am I?
+
+Download the file below.
+
+NOTE: Flag submission format is flag{[number of seconds goes here]}, such as flag{600}.
+```
+
+Files:
+* [challenge.txt](challenge.txt)
+
+## Solution
 
 Locate -13.582075733990298, -172.5084838587106  
 => Samoa, Pacific Ocean.  
@@ -41,7 +55,7 @@ calculate
 ```
 https://earthsky.org/human-world/friday-december-30-2011-struck-from-samoan-calendar/
 
-# Alternative
+### Alternative
 
 First time looking on the watch
 ```
@@ -58,5 +72,7 @@ $ date --date="Jan 01 00:00:00 UTC+14 2012" +%s
 Since it is calculating from UTC, the second timestamp is off by one day, because the missing Dec 29th 2011.
 
 1325325600 - 86400 - 1325023140 = 216060
+
+So the flag is `flag{216060}`
 
 Shoutout to @Sayan-404 for the discussion and final piece of information.

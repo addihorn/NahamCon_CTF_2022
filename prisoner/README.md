@@ -1,4 +1,12 @@
-# How to
+# Prinsoner (Warmup)
+
+## Challenge
+
+```
+Have you ever broken out of jail? Maybe it is easier than you think! 
+```
+
+## Solution
 
 Connect to machine using ssh and get message
 ```

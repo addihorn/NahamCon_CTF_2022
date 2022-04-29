@@ -1,4 +1,12 @@
-# How to
+# Poisoned (DevOps)
+
+## Challenge
+
+```
+Someone leaked their git credentials (developer:2!W4S5J$6e). Can you get their company secrets? 
+```
+
+## Solution
 
 This was a fun one
 
@@ -18,6 +26,9 @@ steps:
       FLAG:
         from_secret: flag
 ```
+
+
+### Drone CI
 
 So the flag is printed out with echo.
 Let's see the latest build  on http://drone.challenge.nahamcon.com:32637/JustHacking/poisoned/10/1/2
@@ -83,6 +94,6 @@ In a different step, outside of the secret-context of step `master` the file is 
 Since the PR is still open a new build is triggered and we see a new step `hack-the-world` with our flag
 ![image](assets/Reveal_Flag.JPG)
 
-Flag: flag{0ee4a0101bb992911c2c56e17d9b86cd}
+Flag: `flag{0ee4a0101bb992911c2c56e17d9b86cd}`
 
 
