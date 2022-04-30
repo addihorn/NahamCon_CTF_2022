@@ -75,4 +75,4 @@ Since it is calculating from UTC, the second timestamp is off by one day, becaus
 
 So the flag is `flag{216060}`
 
-Shoutout to @Sayan-404 for the discussion and final piece of information.
+Shoutout to [@Sayan-404](https://github.com/Sayan-404) for the discussion and final piece of information.
