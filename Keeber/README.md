@@ -161,3 +161,15 @@ https://www.instagram.com/tif.hearts.science
 
 #### During this endevour my IP was blocked by Instagram on sussicion of being an open proxy
 ![image](assets/Keeber6-IG_IP-Block.PNG)
+
+...
+
+## Keeber 7
+### Challenge
+```
+Multiple employees have gotten strange phishing emails from the same phishing scheme. Use the email corresponding to the phishing email to find the true identity of the scammer. The flag is in regular format.
+
+(Note: This challenge can be solved without paying for anything!) 
+```
+Files: [keeber_7.pdf](keeber_7.pdf)
+### Solution
