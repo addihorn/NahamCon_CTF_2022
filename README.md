@@ -57,16 +57,16 @@
 ## Day 1 - Thursday evening / night
 Starting strong in the first 3-4 hours.
 
-337th Place out of 1447 Teams. Doing good.
+337th Place out of 1447 Teams. Doing good.  
 
 ![image](assets/EndOfDay1.PNG)
 
 ## Day 2 - Friday
 Still holding strong, and Tnumber of teams is growing to nearly 3000.  
-Maybe top 10% is doable? 😅
+Maybe top 10% is doable? 😅  
 ![image](assets/EndOfDay2.PNG)
 
 ## Day 3 - Saturday Final Day
 got the certificate at the End of the Day.  
-**Top 5% Babeyyy**
+**Top 5% Babeyyy**  
 ![image](assets/certificate.png)
