@@ -1,0 +1,11 @@
+Based on 
+https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7#:~:text=A%20newly%20discovered%20security%20flaw,down%20the%20pipeline%20to%20production
+
+as per
+https://discord.com/channels/598608711186907146/970036822338064394/970087509159718932
+
+Maybe establish remote shell as per
+https://discord.com/channels/598608711186907146/970036822338064394/970080106892636230
+
+Also
+https://discord.com/channels/598608711186907146/970036822338064394/970087107638992936
