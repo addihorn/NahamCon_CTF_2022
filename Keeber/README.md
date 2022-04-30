@@ -162,6 +162,22 @@ https://www.instagram.com/tif.hearts.science
 #### During this endevour my IP was blocked by Instagram on sussicion of being an open proxy
 ![image](assets/Keeber6-IG_IP-Block.PNG)
 
+Checking Tiffanys Instagram account reveals that she is now working in a hotel of some sort) and has a commute of around 20min by foot and ferry into the city.
+
+Knowning her former employer was located in `Standish, Maine` we can have a look around, where ferries could potentially be operated.
+Near Standish we find the city of `Portland, Maine` and can have a look into the hotels near the waterside.
+
+**After Challenge - Solve**  
+The hotel in question is the [Residence Inn by Marriott Portland Downtown/Waterfront](https://www.yelp.com/biz/residence-inn-by-marriott-portland-downtown-waterfront-portland) wich has a comment stating 
+```
+Portland is such a great city with a hometown feel to it. Behind the scenes, there is a lot of attention to detail put into ensuring the best guest experiences. Rooms are cleaned thoroughly between stays, and covid protocol is followed well. This is a hotel I would want to stay at while traveling.
+
+P.S. flag{0d70179f4c993c5eb3ba9becfb046034}
+```
+
+I wasn't able to find this one, because my yelp defaulted to yelp.de. which does not have the necessary comment present. 😡 ([see here](https://www.yelp.de/biz/residence-inn-by-marriott-portland-downtown-waterfront-portland))
+
+
 ...
 
 ## Keeber 7
