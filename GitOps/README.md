@@ -192,13 +192,14 @@ HOME=/tmp/drone-5O8nHRsoCPeXIuBK/home/drone
 machine git.challenge.nahamcon.com login droneci password t4K0@s!qSF
 ```
 
-We can check that, the credentials work in a seperate browser session
+We can check that, the credentials work in a seperate browser session  
+
 ![image](assets/LoginWithDroneci.PNG)
 
-So Step 1 is done, the login worked, and we can check that we are able to approve a Pull Request.
+So Step 1 is done, the login worked, and we can check that we are able to approve a Pull Request.  
 ![image](assets/approvePR.PNG)
 
-After approving the PR we can see, that there is a new commit (I merged as squash merge) in the master branch.
+After approving the PR we can see, that there is a new commit (I merged as squash merge) in the master branch.  
 ![image](assets/commitedToMaster.PNG)
 
 ### Step 2 - infiltrate production
