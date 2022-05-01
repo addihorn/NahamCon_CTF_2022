@@ -168,14 +168,18 @@ Knowning her former employer was located in `Standish, Maine` we can have a look
 Near Standish we find the city of `Portland, Maine` and can have a look into the hotels near the waterside.
 
 **After Challenge - Solve**  
-The hotel in question is the [Residence Inn by Marriott Portland Downtown/Waterfront](https://www.yelp.com/biz/residence-inn-by-marriott-portland-downtown-waterfront-portland) wich has a comment stating 
+The hotel in question is the [Residence Inn by Marriott Portland Downtown/Waterfront](https://www.yelp.com/biz/residence-inn-by-marriott-portland-downtown-waterfront-portland) which has a comment stating 
 ```
 Portland is such a great city with a hometown feel to it. Behind the scenes, there is a lot of attention to detail put into ensuring the best guest experiences. Rooms are cleaned thoroughly between stays, and covid protocol is followed well. This is a hotel I would want to stay at while traveling.
 
 P.S. flag{0d70179f4c993c5eb3ba9becfb046034}
 ```
 
-I wasn't able to find this one, because my yelp defaulted to yelp.de. which does not have the necessary comment present. 😡 ([see here](https://www.yelp.de/biz/residence-inn-by-marriott-portland-downtown-waterfront-portland))
+![image](assets/Keeber6-YelpReview.png)
+
+
+I wasn't able to find this one, because my yelp defaulted to yelp.de. which does not have the necessary comment present. 😡 ([see here](https://www.yelp.de/biz/residence-inn-by-marriott-portland-downtown-waterfront-portland))   
+but it is visible in the [not recommended reviews](https://www.yelp.de/not_recommended_reviews/residence-inn-by-marriott-portland-downtown-waterfront-portland) 
 
 
 ...
