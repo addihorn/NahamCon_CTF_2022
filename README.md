@@ -24,6 +24,7 @@
 ---
 ## DevOps
 ### [Poisoned](Poisoned/README.md)
+### [GitOps](GitOps/README.md) (After Challenge Solve)
 
 ---
 ## Hardware/RF
